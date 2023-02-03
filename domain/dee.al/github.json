@@ -55,6 +55,10 @@
     "koneksi": "CNAME",
     "hostku": "chirag-adhvaryu",
     "target": "chirag-adhvaryu.github.io"
+},{
+  "koneksi": "CNAME",
+  "hostku": "pandya-riddhi",
+  "target": "pandya-riddhi-dev.github.io"
 }
     
 ]
